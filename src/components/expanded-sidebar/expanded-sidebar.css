@@ -1,0 +1,17 @@
+.form-input {
+    background: #767676 !important;
+    border: 0 !important;
+    border-radius: 0 !important;}
+
+.form-group {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.delete-button {
+    position: absolute;
+    right: 51px;
+    top: 15px;
+}
+.button.company-button.btn.btn-primary {
+    margin-top: 20px;
+}
