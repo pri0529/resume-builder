@@ -1,0 +1,31 @@
+.main-div {
+  border: 1px solid;
+}
+.intro-section {
+  border: 1px solid !important;
+  text-align: start;
+}
+.about-section {
+  border: 1px solid !important;
+}
+.div-1 {
+  display: flex;
+  justify-content: space-between;
+}
+.experience-div {
+  margin-top: 10px;
+  border: 1px solid;
+  text-align: start;
+}
+.carrer-objectives {
+  border: 1px solid;
+  text-align: "start";
+}
+
+.technical-expertise {
+  border: 1px solid;
+  margin-top: 10px;
+}
+.key-div {
+  border: 1px solid;
+}
